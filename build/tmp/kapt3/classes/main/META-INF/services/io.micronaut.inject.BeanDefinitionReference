@@ -1,0 +1,3 @@
+br.com.estudos.$FretesGRPCServerDefinitionClass
+br.com.estudos.$HealthCheckerServiceDefinitionClass
+br.com.estudos.$GrpcServerControllerDefinitionClass

@@ -1,0 +1,74 @@
+io/grpc/health/v1/HealthProto.java
+ io.grpc.health.v1.HealthProto
+br/com/estudos/CalculaFreteRequestOrBuilder.java
+ br.com.estudos.CalculaFreteRequestOrBuilder
+io/grpc/health/v1/HealthCheckResponseOrBuilder.java
+ io.grpc.health.v1.HealthCheckResponseOrBuilder
+br/com/estudos/FretesServiceGrpc.java
+ br.com.estudos.FretesServiceGrpc
+ br.com.estudos.FretesServiceGrpc$1
+ br.com.estudos.FretesServiceGrpc$2
+ br.com.estudos.FretesServiceGrpc$3
+ br.com.estudos.FretesServiceGrpc$FretesServiceBaseDescriptorSupplier
+ br.com.estudos.FretesServiceGrpc$FretesServiceBlockingStub
+ br.com.estudos.FretesServiceGrpc$FretesServiceFileDescriptorSupplier
+ br.com.estudos.FretesServiceGrpc$FretesServiceFutureStub
+ br.com.estudos.FretesServiceGrpc$FretesServiceImplBase
+ br.com.estudos.FretesServiceGrpc$FretesServiceMethodDescriptorSupplier
+ br.com.estudos.FretesServiceGrpc$FretesServiceStub
+ br.com.estudos.FretesServiceGrpc$MethodHandlers
+br/com/estudos/Fretes.java
+ br.com.estudos.Fretes
+io/grpc/health/v1/HealthCheckRequest.java
+ io.grpc.health.v1.HealthCheckRequest
+ io.grpc.health.v1.HealthCheckRequest$1
+ io.grpc.health.v1.HealthCheckRequest$Builder
+io/grpc/health/v1/HealthCheckRequestOrBuilder.java
+ io.grpc.health.v1.HealthCheckRequestOrBuilder
+io/grpc/health/v1/HealthGrpc.java
+ io.grpc.health.v1.HealthGrpc
+ io.grpc.health.v1.HealthGrpc$1
+ io.grpc.health.v1.HealthGrpc$2
+ io.grpc.health.v1.HealthGrpc$3
+ io.grpc.health.v1.HealthGrpc$HealthBaseDescriptorSupplier
+ io.grpc.health.v1.HealthGrpc$HealthBlockingStub
+ io.grpc.health.v1.HealthGrpc$HealthFileDescriptorSupplier
+ io.grpc.health.v1.HealthGrpc$HealthFutureStub
+ io.grpc.health.v1.HealthGrpc$HealthImplBase
+ io.grpc.health.v1.HealthGrpc$HealthMethodDescriptorSupplier
+ io.grpc.health.v1.HealthGrpc$HealthStub
+ io.grpc.health.v1.HealthGrpc$MethodHandlers
+br/com/estudos/CalculaFreteResponseOrBuilder.java
+ br.com.estudos.CalculaFreteResponseOrBuilder
+io/grpc/health/v1/HealthCheckResponse.java
+ io.grpc.health.v1.HealthCheckResponse
+ io.grpc.health.v1.HealthCheckResponse$1
+ io.grpc.health.v1.HealthCheckResponse$Builder
+ io.grpc.health.v1.HealthCheckResponse$ServingStatus
+ io.grpc.health.v1.HealthCheckResponse$ServingStatus$1
+br/com/estudos/FretesRequestOrBuilder.java
+ br.com.estudos.FretesRequestOrBuilder
+br/com/estudos/ErrorDetailsOrBuilder.java
+ br.com.estudos.ErrorDetailsOrBuilder
+br/com/estudos/CalculaFreteRequest.java
+ br.com.estudos.CalculaFreteRequest
+ br.com.estudos.CalculaFreteRequest$1
+ br.com.estudos.CalculaFreteRequest$Builder
+br/com/estudos/CalculaFreteResponse.java
+ br.com.estudos.CalculaFreteResponse
+ br.com.estudos.CalculaFreteResponse$1
+ br.com.estudos.CalculaFreteResponse$Builder
+br/com/estudos/ErrorDetails.java
+ br.com.estudos.ErrorDetails
+ br.com.estudos.ErrorDetails$1
+ br.com.estudos.ErrorDetails$Builder
+br/com/estudos/FretesRequest.java
+ br.com.estudos.FretesRequest
+ br.com.estudos.FretesRequest$1
+ br.com.estudos.FretesRequest$Builder
+br/com/estudos/FretesReply.java
+ br.com.estudos.FretesReply
+ br.com.estudos.FretesReply$1
+ br.com.estudos.FretesReply$Builder
+br/com/estudos/FretesReplyOrBuilder.java
+ br.com.estudos.FretesReplyOrBuilder

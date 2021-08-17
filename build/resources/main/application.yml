@@ -1,0 +1,17 @@
+micronaut:
+  application:
+    name: fretes
+
+grpc:
+  server:
+    health:
+      enabled: true
+
+endpoints: # config inicial do micronaut-management
+#  all:
+#    port: 8085
+#    sensitive: true
+  health:
+    enable: true # por padrão já é habilitado
+    sensitive: false # se acessível por usuários autenticados e não autenticados
+    details-visible: ANONYMOUS
